@@ -1,0 +1,30 @@
+{
+  "greeting": "Moshi moshi!",
+  "name": "Bạn Lan",
+  "greetingText": "Đến hẹn lại đến, năm nay tui vẫn sẽ chúc mừng cậu.",
+  "wishText": "Chúc cậu sẽ có hạnh phúc bên cạnh gia đình.",
+  "imagePath": "kaori.png",
+  "text1": "Hôm nay là sinh nhật của cậu!",
+  "textInChatBox": "Chúc cậu sinh nhật vui vẻ!!! Rất nhiều niềm vui…",
+  "sendButtonLabel": "Gửi",
+  "text2": "Tui sẽ cho cậu một món quà nhỏ",
+  "text3": "...và...",
+  "text4": "...nó...",
+  "text4Adjective": "là",
+  "text5Entry": "Bởi vì,",
+  "text5Content": "cậu là bạn tui mà!",
+  "smiley": ":)",
+  "bigTextPart1": "V",
+  "bigTextPart2": "ậy",
+  "wishHeading": "Chúc mừng sinh nhật!",
+  "outroText": "Tui hy vọng cậu thích món quà nhỏ này!",
+  "replayText": "Nếu cậu thích, có thể xem lại một lần nữa! Hoặc…",
+  "outroSmiley": ":)",
+  "music": "music.mp3",
+  "fonts": [
+    {
+      "name": "Love Light",
+      "path": "https://fonts.googleapis.com/css2?family=Love+Light&display=swap"
+    }
+  ]
+}
